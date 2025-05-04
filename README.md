@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manuelcostilla
 - 👀 I’m interested in all tech related stuff 
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning data analyst
 - 💞️ I’m looking to collaborate on a place where I'm needed
 - 📫 How to reach me: talk to me via mail if possible santiagomanueldariocostilla@gmail.com
 - 😄 Pronouns: he/him
